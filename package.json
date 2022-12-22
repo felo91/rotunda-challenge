@@ -1,0 +1,21 @@
+{
+  "name": "excerices",
+  "version": "1.0.0",
+  "description": "Challenges for rotunda",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felo91/rotunda-challenges.git"
+  },
+  "author": "Felipe Xaus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felo91/rotunda-challenges/issues"
+  },
+  "homepage": "https://github.com/felo91/rotunda-challenges#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
