@@ -2,13 +2,9 @@
 
 Resolve 3 exercises.
 
-1)
+1) Zoo: We are building a zoo inside a computer. Each animal species in our zoo has lots of different, particular, behaviors, but all animals talk to each other in a similar way. Specifically, they all implement a speak method, the output of which is the arbitrary input string interspersed with an "animal sound" that is particular to thattype of animal. 
 
-Zoo: We are building a zoo inside a computer. Each animal species in our zoo has lots of different, particular, behaviors, but all animals talk to each other in a similar way. Specifically, they all implement a speak method, the output of which is the arbitrary input string interspersed with an "animal sound" that is particular to thattype of animal. 
-
-2)
-
-Url Parser: We need some logic that extracts the variable parts of a url into a hash. The keys of the
+2) Url Parser: We need some logic that extracts the variable parts of a url into a hash. The keys of the
 extract hash will be the "names" of the variable parts of a url, and the values of the hash
 will be the values. We will be supplied with:
 
@@ -25,9 +21,7 @@ url format string above, the url instance might be:
 
 '/6/api/listings/3?sort=desc&limit=10'
 
-3)
-
-Error Alarm: Suppose we have a web application that runs on a single server. Errors that
+3) Error Alarm: Suppose we have a web application that runs on a single server. Errors that
 occur from time to time during normal operation of the application are logged to a
 text file that is stored in the file system on the server.
 We are not concerned about these errors when their frequency is low. However,
